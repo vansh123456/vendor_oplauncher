@@ -9,4 +9,5 @@ PRODUCT_PACKAGES += \
     OPLauncher \
     OPIconpackOxygen \
     OPIconpackRound \
-    OPWidget
+    OPWidget \
+    OPWeather
